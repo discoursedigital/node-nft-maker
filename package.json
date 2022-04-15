@@ -1,7 +1,7 @@
 {
   "name": "nft-generator",
   "version": "1.0.0",
-  "description": "https://github.com/Calcaware/NFT-Generator",
+  "description": "Generate NFT's from PNG layers",
   "browser": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
