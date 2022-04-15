@@ -12,9 +12,9 @@ Under each type is multiple image layers of that type. Usually separated by colo
 
 The file structure of the assets folder directly corresponds to the attributes of each image.
 For example:
-	* assets/Background/Solid/Red.png
-	* will translate to
-	* Background: Solid Red
+- assets/Background/Solid/Red.png
+- will translate to
+- Background: Solid Red
 so name your files appropriately if you want attributes capitalized and with no extra spaces or symbols.
 
 **Note:** *Make sure all image layers are the same size.
