@@ -1,32 +1,64 @@
 [
 	{
 		"Background": "Transparent None",
+		"Character": "Blue Sketch"
+	},
+	{
+		"Background": "Horizontal Blue Pink Gradient",
 		"Character": "Pink Sketch"
 	},
 	{
+		"Background": "Diagonal Blue Pink Gradient",
+		"Character": "Green Sketch"
+	},
+	{
 		"Background": "Transparent None",
-		"Character": "Purple Sketch",
-		"Overlay": "White Hearts"
+		"Character": "Blue Sketch",
+		"Overlay": "Pink Hearts"
 	},
 	{
 		"Background": "Transparent None",
 		"Character": "Teal Sketch"
 	},
 	{
-		"Background": "Transparent None",
-		"Character": "Green Sketch"
+		"Background": "Radial Blue Green Gradient",
+		"Character": "Pink Sketch"
 	},
 	{
 		"Background": "Vertical Blue Yellow Gradient",
 		"Character": "Pink Sketch"
 	},
 	{
+		"Background": "Radial Blue Cyan Gradient",
+		"Character": "Green Sketch"
+	},
+	{
 		"Background": "Transparent None",
-		"Character": "White Sketch"
+		"Character": "Green Sketch"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "Pink Sketch"
 	},
 	{
 		"Background": "Diagonal Blue Pink Gradient",
-		"Character": "Teal Sketch"
+		"Character": "Orange Sketch",
+		"Overlay": "Silver Confetti"
+	},
+	{
+		"Background": "Radial Blue Green Gradient",
+		"Character": "Blue Sketch",
+		"Overlay": "Rainbow Confetti"
+	},
+	{
+		"Background": "Diagonal Blue Cyan Gradient",
+		"Character": "Teal Sketch",
+		"Overlay": "White Hearts"
+	},
+	{
+		"Background": "Vertical Blue Purple Gradient",
+		"Character": "Green Sketch",
+		"Overlay": "Silver Confetti"
 	},
 	{
 		"Background": "Transparent None",
@@ -34,11 +66,524 @@
 	},
 	{
 		"Background": "Transparent None",
+		"Character": "White Sketch"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "Orange Sketch"
+	},
+	{
+		"Background": "Diagonal Blue Pink Gradient",
 		"Character": "Purple Sketch"
 	},
 	{
 		"Background": "Transparent None",
+		"Character": "Purple Sketch"
+	},
+	{
+		"Background": "Vertical Blue Purple Gradient",
+		"Character": "Black Sketch"
+	},
+	{
+		"Background": "Radial Blue Cyan Gradient",
+		"Character": "Orange Sketch",
+		"Overlay": "Gold Confetti"
+	},
+	{
+		"Background": "Vertical Blue Yellow Gradient",
+		"Character": "Teal Sketch"
+	},
+	{
+		"Background": "Diagonal Blue Pink Gradient",
+		"Character": "Orange Sketch"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "Pink Sketch",
+		"Overlay": "Pink Hearts"
+	},
+	{
+		"Background": "Horizontal Blue Cyan Gradient",
+		"Character": "Pink Sketch"
+	},
+	{
+		"Background": "Radial Blue Green Gradient",
+		"Character": "Teal Sketch",
+		"Overlay": "Pink Hearts"
+	},
+	{
+		"Background": "Vertical Blue Yellow Gradient",
+		"Character": "Purple Sketch"
+	},
+	{
+		"Background": "Radial Blue Cyan Gradient",
+		"Character": "Teal Sketch"
+	},
+	{
+		"Background": "Vertical Blue Purple Gradient",
+		"Character": "White Sketch"
+	},
+	{
+		"Background": "Vertical Blue Yellow Gradient",
+		"Character": "White Sketch"
+	},
+	{
+		"Background": "Horizontal Blue Cyan Gradient",
+		"Character": "Black Sketch"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "Green Sketch",
+		"Overlay": "Rainbow Confetti"
+	},
+	{
+		"Background": "Diagonal Blue Cyan Gradient",
+		"Character": "Pink Sketch",
+		"Overlay": "White Hearts"
+	},
+	{
+		"Background": "Diagonal Blue Pink Gradient",
+		"Character": "White Sketch",
+		"Overlay": "Gold Confetti"
+	},
+	{
+		"Background": "Vertical Blue Yellow Gradient",
+		"Character": "Black Sketch"
+	},
+	{
+		"Background": "Horizontal Blue Cyan Gradient",
+		"Character": "Pink Sketch",
+		"Overlay": "White Hearts"
+	},
+	{
+		"Background": "Horizontal Blue Cyan Gradient",
+		"Character": "Orange Sketch",
+		"Overlay": "Gold Confetti"
+	},
+	{
+		"Background": "Diagonal Blue Pink Gradient",
+		"Character": "White Sketch"
+	},
+	{
+		"Background": "Vertical Blue Purple Gradient",
+		"Character": "Teal Sketch"
+	},
+	{
+		"Background": "Diagonal Blue Pink Gradient",
+		"Character": "Pink Sketch"
+	},
+	{
+		"Background": "Horizontal Blue Pink Gradient",
+		"Character": "Black Sketch"
+	},
+	{
+		"Background": "Radial Blue Green Gradient",
+		"Character": "Orange Sketch",
+		"Overlay": "White Hearts"
+	},
+	{
+		"Background": "Radial Blue Green Gradient",
+		"Character": "Teal Sketch",
+		"Overlay": "Gold Confetti"
+	},
+	{
+		"Background": "Diagonal Blue Pink Gradient",
+		"Character": "Orange Sketch",
+		"Overlay": "Pink Hearts"
+	},
+	{
+		"Background": "Horizontal Blue Pink Gradient",
+		"Character": "Green Sketch"
+	},
+	{
+		"Background": "Vertical Blue Purple Gradient",
+		"Character": "Orange Sketch"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "Pink Sketch",
+		"Overlay": "Gold Confetti"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "Black Sketch",
+		"Overlay": "Pink Hearts"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "Black Sketch",
+		"Overlay": "Rainbow Confetti"
+	},
+	{
+		"Background": "Radial Blue Cyan Gradient",
+		"Character": "Pink Sketch"
+	},
+	{
+		"Background": "Diagonal Blue Pink Gradient",
+		"Character": "Black Sketch"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "White Sketch",
+		"Overlay": "Gold Confetti"
+	},
+	{
+		"Background": "Vertical Blue Purple Gradient",
+		"Character": "Purple Sketch"
+	},
+	{
+		"Background": "Horizontal Blue Cyan Gradient",
+		"Character": "Black Sketch",
+		"Overlay": "Pink Hearts"
+	},
+	{
+		"Background": "Diagonal Blue Pink Gradient",
+		"Character": "Pink Sketch",
+		"Overlay": "White Hearts"
+	},
+	{
+		"Background": "Vertical Blue Purple Gradient",
+		"Character": "Pink Sketch"
+	},
+	{
+		"Background": "Diagonal Blue Cyan Gradient",
+		"Character": "Black Sketch",
+		"Overlay": "Rainbow Confetti"
+	},
+	{
+		"Background": "Horizontal Blue Pink Gradient",
+		"Character": "Orange Sketch"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "Green Sketch",
+		"Overlay": "Gold Confetti"
+	},
+	{
+		"Background": "Radial Blue Green Gradient",
+		"Character": "Teal Sketch"
+	},
+	{
+		"Background": "Horizontal Blue Cyan Gradient",
+		"Character": "Purple Sketch"
+	},
+	{
+		"Background": "Horizontal Blue Pink Gradient",
+		"Character": "Purple Sketch"
+	},
+	{
+		"Background": "Diagonal Blue Cyan Gradient",
+		"Character": "Blue Sketch"
+	},
+	{
+		"Background": "Diagonal Blue Cyan Gradient",
+		"Character": "Teal Sketch"
+	},
+	{
+		"Background": "Radial Blue Green Gradient",
+		"Character": "White Sketch"
+	},
+	{
+		"Background": "Horizontal Blue Cyan Gradient",
+		"Character": "Blue Sketch"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "White Sketch",
+		"Overlay": "Silver Confetti"
+	},
+	{
+		"Background": "Horizontal Blue Pink Gradient",
+		"Character": "Black Sketch",
+		"Overlay": "Pink Hearts"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "Black Sketch",
+		"Overlay": "White Hearts"
+	},
+	{
+		"Background": "Horizontal Blue Pink Gradient",
+		"Character": "Purple Sketch",
+		"Overlay": "Pink Hearts"
+	},
+	{
+		"Background": "Diagonal Blue Cyan Gradient",
+		"Character": "Black Sketch"
+	},
+	{
+		"Background": "Horizontal Blue Cyan Gradient",
+		"Character": "Teal Sketch"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "Teal Sketch",
+		"Overlay": "Silver Confetti"
+	},
+	{
+		"Background": "Horizontal Blue Cyan Gradient",
+		"Character": "White Sketch"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "Teal Sketch",
+		"Overlay": "Pink Hearts"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "Orange Sketch",
+		"Overlay": "White Hearts"
+	},
+	{
+		"Background": "Radial Blue Green Gradient",
+		"Character": "Purple Sketch",
+		"Overlay": "Pink Hearts"
+	},
+	{
+		"Background": "Radial Blue Green Gradient",
+		"Character": "Green Sketch",
+		"Overlay": "White Hearts"
+	},
+	{
+		"Background": "Horizontal Blue Pink Gradient",
+		"Character": "White Sketch"
+	},
+	{
+		"Background": "Vertical Blue Yellow Gradient",
+		"Character": "Blue Sketch"
+	},
+	{
+		"Background": "Radial Blue Green Gradient",
+		"Character": "Pink Sketch",
+		"Overlay": "Gold Confetti"
+	},
+	{
+		"Background": "Diagonal Blue Cyan Gradient",
 		"Character": "Blue Sketch",
 		"Overlay": "Pink Hearts"
+	},
+	{
+		"Background": "Vertical Blue Yellow Gradient",
+		"Character": "Black Sketch",
+		"Overlay": "Silver Confetti"
+	},
+	{
+		"Background": "Radial Blue Green Gradient",
+		"Character": "White Sketch",
+		"Overlay": "Pink Hearts"
+	},
+	{
+		"Background": "Diagonal Blue Cyan Gradient",
+		"Character": "White Sketch"
+	},
+	{
+		"Background": "Diagonal Blue Cyan Gradient",
+		"Character": "Pink Sketch"
+	},
+	{
+		"Background": "Diagonal Blue Cyan Gradient",
+		"Character": "Green Sketch"
+	},
+	{
+		"Background": "Diagonal Blue Cyan Gradient",
+		"Character": "Orange Sketch"
+	},
+	{
+		"Background": "Horizontal Blue Pink Gradient",
+		"Character": "Black Sketch",
+		"Overlay": "Silver Confetti"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "Green Sketch",
+		"Overlay": "Pink Hearts"
+	},
+	{
+		"Background": "Horizontal Blue Cyan Gradient",
+		"Character": "White Sketch",
+		"Overlay": "Pink Hearts"
+	},
+	{
+		"Background": "Horizontal Blue Pink Gradient",
+		"Character": "Orange Sketch",
+		"Overlay": "Gold Confetti"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "Purple Sketch",
+		"Overlay": "Pink Hearts"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "Orange Sketch",
+		"Overlay": "Silver Confetti"
+	},
+	{
+		"Background": "Horizontal Blue Pink Gradient",
+		"Character": "Blue Sketch"
+	},
+	{
+		"Background": "Horizontal Blue Cyan Gradient",
+		"Character": "Green Sketch"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "Blue Sketch",
+		"Overlay": "Gold Confetti"
+	},
+	{
+		"Background": "Radial Blue Cyan Gradient",
+		"Character": "Black Sketch"
+	},
+	{
+		"Background": "Radial Blue Green Gradient",
+		"Character": "Orange Sketch",
+		"Overlay": "Pink Hearts"
+	},
+	{
+		"Background": "Diagonal Blue Pink Gradient",
+		"Character": "Teal Sketch",
+		"Overlay": "White Hearts"
+	},
+	{
+		"Background": "Vertical Blue Yellow Gradient",
+		"Character": "Green Sketch"
+	},
+	{
+		"Background": "Radial Blue Green Gradient",
+		"Character": "Orange Sketch",
+		"Overlay": "Rainbow Confetti"
+	},
+	{
+		"Background": "Diagonal Blue Pink Gradient",
+		"Character": "Pink Sketch",
+		"Overlay": "Silver Confetti"
+	},
+	{
+		"Background": "Radial Blue Cyan Gradient",
+		"Character": "Purple Sketch"
+	},
+	{
+		"Background": "Horizontal Blue Pink Gradient",
+		"Character": "Teal Sketch",
+		"Overlay": "Pink Hearts"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "Orange Sketch",
+		"Overlay": "Rainbow Confetti"
+	},
+	{
+		"Background": "Diagonal Blue Cyan Gradient",
+		"Character": "Purple Sketch"
+	},
+	{
+		"Background": "Horizontal Blue Cyan Gradient",
+		"Character": "Orange Sketch"
+	},
+	{
+		"Background": "Radial Blue Green Gradient",
+		"Character": "Purple Sketch"
+	},
+	{
+		"Background": "Radial Blue Green Gradient",
+		"Character": "Black Sketch"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "Purple Sketch",
+		"Overlay": "Rainbow Confetti"
+	},
+	{
+		"Background": "Vertical Blue Yellow Gradient",
+		"Character": "Orange Sketch"
+	},
+	{
+		"Background": "Horizontal Blue Cyan Gradient",
+		"Character": "Green Sketch",
+		"Overlay": "White Hearts"
+	},
+	{
+		"Background": "Diagonal Blue Pink Gradient",
+		"Character": "White Sketch",
+		"Overlay": "White Hearts"
+	},
+	{
+		"Background": "Radial Blue Green Gradient",
+		"Character": "Orange Sketch",
+		"Overlay": "Silver Confetti"
+	},
+	{
+		"Background": "Radial Blue Cyan Gradient",
+		"Character": "Pink Sketch",
+		"Overlay": "Rainbow Confetti"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "White Sketch",
+		"Overlay": "White Hearts"
+	},
+	{
+		"Background": "Vertical Blue Yellow Gradient",
+		"Character": "Green Sketch",
+		"Overlay": "White Hearts"
+	},
+	{
+		"Background": "Diagonal Blue Pink Gradient",
+		"Character": "Blue Sketch"
+	},
+	{
+		"Background": "Horizontal Blue Pink Gradient",
+		"Character": "Pink Sketch",
+		"Overlay": "White Hearts"
+	},
+	{
+		"Background": "Transparent None",
+		"Character": "Purple Sketch",
+		"Overlay": "Silver Confetti"
+	},
+	{
+		"Background": "Horizontal Blue Cyan Gradient",
+		"Character": "Blue Sketch",
+		"Overlay": "White Hearts"
+	},
+	{
+		"Background": "Radial Blue Cyan Gradient",
+		"Character": "Teal Sketch",
+		"Overlay": "Rainbow Confetti"
+	},
+	{
+		"Background": "Radial Blue Cyan Gradient",
+		"Character": "Black Sketch",
+		"Overlay": "Rainbow Confetti"
+	},
+	{
+		"Background": "Vertical Blue Purple Gradient",
+		"Character": "Blue Sketch"
+	},
+	{
+		"Background": "Vertical Blue Yellow Gradient",
+		"Character": "Teal Sketch",
+		"Overlay": "Rainbow Confetti"
+	},
+	{
+		"Background": "Vertical Blue Purple Gradient",
+		"Character": "White Sketch",
+		"Overlay": "Silver Confetti"
+	},
+	{
+		"Background": "Horizontal Blue Pink Gradient",
+		"Character": "Green Sketch",
+		"Overlay": "Silver Confetti"
+	},
+	{
+		"Background": "Vertical Blue Yellow Gradient",
+		"Character": "White Sketch",
+		"Overlay": "Silver Confetti"
+	},
+	{
+		"Background": "Radial Blue Green Gradient",
+		"Character": "Purple Sketch",
+		"Overlay": "White Hearts"
 	}
 ]
