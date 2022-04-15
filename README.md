@@ -1,6 +1,6 @@
 # Node NFT Maker
 A node.js program that allows you to generate NFTs from image layers and get the JSON for an uploader.
-Adapted to typescript and formatted as an app to integrate as a servcie into other apps. Any suggestions are welcome. Runs on a dual core intel CPU with laptop GPU just fine for the demo sizes. 
+Adapted to typescript and formatted as an app to integrate as a servcie into other apps. Any suggestions are welcome. 
 
 **The assets provided are for example only. Please do not use them to make NFTs.**
 
