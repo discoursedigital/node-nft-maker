@@ -232,5 +232,7 @@ class App implements IApp {
 }
 
 var app = new App();
-app.initialize();
-app.generate(1, 50);
+//app.reset(); // Resets the folder structure and manifest
+app.initialize(); // Indexes the assets
+app.generate(1, 50); // Generates 50 images
+//app.convert("1","1X"); // Converts data file names
